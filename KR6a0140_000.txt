@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 舍利弗摩訶目連遊四衢經
+#+DATE: 2015-08-30 19:32:45.556586
+#+PROPERTY: JUAN 0
